@@ -2,7 +2,7 @@
 ><h1 align="center">Hi 👋, I'm Navshree Prasad</h1>
 
 <h3 align="center">
-Master of Business Data Analytics Student | Aspiring Data Analyst | Business Intelligence Enthusiast
+Master of Business Data Analytics Student | Aspiring Data Analyst 
 </h3>
 
 <p align="center">
